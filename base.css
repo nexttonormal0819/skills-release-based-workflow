@@ -106,7 +106,7 @@ section {
   display: block;
 }
 body {
-    background-color: black;
+    background-color: black; /* 修复错误样式 */
 }
 ol,
 ul {
